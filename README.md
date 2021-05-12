@@ -8,7 +8,7 @@ I'm Full Stack Developer from China.
 
 🌱 I’m currently learning TS, Rust and .Net.
 
-
+<img src="./code.png" style="width: 500px;" />
 
 <!--
 **winily/winily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
