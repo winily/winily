@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey! guys. Redme Redme.
+
+## My name is Winily. You can also call me Bao.
+
+I'm Full Stack Developer from China.
+
+📫 How to reach me: 📧 18934086807@163.com
+
+🌱 I’m currently learning TS, Rust and .Net.
+
+
 
 <!--
 **winily/winily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
