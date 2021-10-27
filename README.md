@@ -6,7 +6,7 @@ I'm Full Stack Developer from China.
 
 📫 How to reach me: 📧 18934086807@163.com
 
-🌱 I’m currently learning TS, Rust and .Net.
+🌱 I’m currently learning Python and Cpp.
 
 <img src="./code.png" width="500" />
 
